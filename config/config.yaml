@@ -1,0 +1,4 @@
+implicitly_wait: 5
+explicit_wait_polling: 20
+
+base_url: https://www.google.com/
